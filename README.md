@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @hallo-mumtaza
-- 👀 I’m interested in PHP, ExpressJS, React, MongoDB, MySQL
-- 🌱 I’m currently learning SEO
-- 💞️ I’m a Freelance Team
-- 📫 How to reach me hallo.mumtaza@gmail.com
+- 👋 Hi, We'r @hallo-mumtaza
+- 👀 We'r interested in PHP Laravel, ExpressJS, React, MongoDB, MySQL
+- 🌱 We'r currently learning SEO
+- 💞️ We'r a Freelance Team
+- 📫 How to reach me `hallo.mumtaza@gmail.com`
