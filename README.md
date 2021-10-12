@@ -2,4 +2,4 @@
 - 👀 We'r interested in PHP Laravel, ExpressJS, React, MongoDB, MySQL
 - 🌱 We'r currently learning SEO
 - 💞️ We'r a Freelance Team
-- 📫 How to reach me `hallo.mumtaza@gmail.com`
+- 📫 How to reach us `hallo.mumtaza@gmail.com`
